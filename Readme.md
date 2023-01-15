@@ -8,3 +8,5 @@ https://getbootstrap.com/ para agregar iconos en distintas secciones del proyect
 La plantilla base saque del tutorial y fui personalizando el proyecto.
 Las imagenes las descargue de Pexels.
 Use el generador de loren ipsum para algunas partes del contenido, el resto es informacion ficticia y no pertence a ninguna persona real.
+La pagina la probe en Google, Microsoft Edge, Internet Explorer, Firefox y Opera.
+Cuando pruebo desde mi pc el logo de la pagina carga perfectamente, desde github no aparece, eso no lo pude resolver.
