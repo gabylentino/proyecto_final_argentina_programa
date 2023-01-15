@@ -6,3 +6,4 @@ https://convertio.co/es para convertir a formato favicon el logo de la pagina.
 https://fonts.google.com/?preview.text=bungee&preview.text_type=custom para elegir la tipologia de las fuentes.
 https://getbootstrap.com/ para agregar iconos en distintas secciones del proyecto.
 La plantilla base saque del tutorial y fui personalizando el proyecto.
+Las imagenes las descargue de Pexels.
