@@ -7,3 +7,4 @@ https://fonts.google.com/?preview.text=bungee&preview.text_type=custom para eleg
 https://getbootstrap.com/ para agregar iconos en distintas secciones del proyecto.
 La plantilla base saque del tutorial y fui personalizando el proyecto.
 Las imagenes las descargue de Pexels.
+Use el generador de loren ipsum para algunas partes del contenido, el resto es informacion ficticia y no pertence a ninguna persona real.
